@@ -20,7 +20,7 @@ const Footer = ({ references }) => {
         <Styled.a sx={{ textDecoration: 'underline', color: 'text-light' }} href="mailto:cdfiggers@gmail.com">
           email me
         </Styled.a>{' '}
-        any time.{' '}
+        any time.{' '} If you want, you can{' '}
         <Styled.a 
           sx={{ textDecoration: 'underline', color: 'text-light' }} href="https://ko-fi.com/calebfiggers">
           Support me on Ko-fi {'<3'}
