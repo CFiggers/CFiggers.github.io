@@ -10,3 +10,7 @@ Here's some stuff I [think](/thinking) and [write](/writing) about:
 * [[Theology]]
 * [[Philosophy]]
 * [[Surviving Seminary]]
+
+---
+
+Last updated: Oct 2020
