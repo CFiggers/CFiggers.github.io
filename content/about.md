@@ -14,5 +14,5 @@ Here's some stuff I [think](/thinking) and [write](/writing) about:
 Here's some [hobbies](/hobbies) and some [media](/media) that I enjoy.
 
 ---
-
+<sub><sup>This site uses <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby</a> and <a href="https://github.com/aravindballa/gatsby-theme-andy" target="_blank">gatsby-theme-andy</a>. </sup></sub>
 <sub><sup>Last Updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-06</a></sup></sub>
