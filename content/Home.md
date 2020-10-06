@@ -15,4 +15,4 @@ Here's some [hobbies](/hobbies) and some [media](/media) that I enjoy.
 
 ---
 
-Last Updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-06</a>
+<sub><sup>Last Updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-06</a></sup></sub>
