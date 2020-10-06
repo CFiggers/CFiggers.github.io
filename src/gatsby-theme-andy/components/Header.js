@@ -17,7 +17,7 @@ export default ({ siteMetadata }) => (
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;
-      <Link to="https://ko-fi.com/calebfiggers" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none' }}>
+      <Link to="https://ko-fi.com/calebfiggers" target="_blank" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none' }}>
         ❤
       </Link>
     </Box>

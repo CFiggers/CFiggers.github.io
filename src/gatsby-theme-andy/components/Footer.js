@@ -12,7 +12,7 @@ const Footer = ({ references }) => {
       I'd love to hear from you! You can {' '}
         <Styled.a
           sx={{ textDecoration: 'underline', color: 'text-light' }}
-          href="https://twitter.com/messages/compose?recipient_id=1236760268727889921"
+          href="https://twitter.com/messages/compose?recipient_id=1236760268727889921" target="_blank"
         >
           direct message me
         </Styled.a>{' '}
@@ -22,7 +22,7 @@ const Footer = ({ references }) => {
         </Styled.a>{' '}
         any time.{' '} If you want, you can{' '}
         <Styled.a 
-          sx={{ textDecoration: 'underline', color: 'text-light' }} href="https://ko-fi.com/calebfiggers">
+          sx={{ textDecoration: 'underline', color: 'text-light' }} href="https://ko-fi.com/calebfiggers" target="_blank">
           Support me on Ko-fi {'<3'}
         </Styled.a>{''}
       </p>
