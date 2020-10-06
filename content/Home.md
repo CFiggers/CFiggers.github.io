@@ -11,6 +11,8 @@ Here's some stuff I [think](/thinking) and [write](/writing) about:
 * [[Philosophy]]
 * [[Surviving Seminary]]
 
+Here's some [hobbies](/hobbies) and some [media](/media) that I enjoy.
+
 ---
 
-Last updated: Oct 2020
+Last Updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-06</a>
