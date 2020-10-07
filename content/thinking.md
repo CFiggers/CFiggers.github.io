@@ -5,4 +5,5 @@ title: Thinking
 Thinking carefully is important. Here's some stuff I've learned:
 
 * [[Think Small Thoughts]]
-* [[Abstraction]] and [[Composition]]
+* [[Abstraction]] and [[Reification]]
+* [[Composition]] and [[Decomposition]]
