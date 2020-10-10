@@ -1,0 +1,6 @@
+---
+title: Axiology
+---
+
+* [[Ethics]]
+* [[Aesthetics]]
