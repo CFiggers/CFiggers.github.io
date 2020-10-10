@@ -1,25 +1,21 @@
 /** @jsx jsx */
 import React from 'react';
 import { Link } from 'gatsby';
-import { Box, jsx } from 'theme-ui';
+import { Flex, Box, jsx } from 'theme-ui';
 
 export default ({ siteMetadata }) => (
   <header>
-    <Box py={2} px={3} sx={{ borderBottom: '1px solid', borderColor: 'gray' }}>
+    <Flex>
+    <Box py={2} px={3} sx={{ borderBottom: '1px solid', borderColor: 'gray', width: 500 }}>
       <Link to="/" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none' }}>
         {siteMetadata.title}
       </Link>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;
-      <Link to="https://ko-fi.com/calebfiggers" target="_blank" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none' }}>
+    </Box>
+    <Box py={2} px={3} sx={{ borderBottom: '1px solid', borderColor: 'gray', flex: '1', pr: 4 }}>
+      <Link to="https://ko-fi.com/calebfiggers" target="_blank" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none', justifyContent: 'flex-end' }}>
         ❤
       </Link>
     </Box>
+    </Flex>
   </header>
 );
