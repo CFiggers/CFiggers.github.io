@@ -9,3 +9,6 @@ I have some hobbies:
 * [[Personal Knowledge Management]]
 * [[Coffee]]
 * [[Fountain Pens]]
+* [[Tabletop Roleplaying Games]]
+* [[Project Management]]
+* [[Data Collection]], [[Data Analysis]], and [[Data Visualization]]
