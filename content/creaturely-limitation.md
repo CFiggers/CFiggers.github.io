@@ -1,2 +1,4 @@
-# Creaturely Limitation
+---
+title: Creaturely Limitation
+---
 

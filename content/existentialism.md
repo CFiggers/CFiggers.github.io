@@ -1,2 +1,3 @@
-# Existentialism
-
+---
+title: Existentialism
+---
