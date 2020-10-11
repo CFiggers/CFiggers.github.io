@@ -6,7 +6,8 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "serve": "gatsby serve"
   },
   "author": "Caleb Figgers",
   "license": "ISC",
