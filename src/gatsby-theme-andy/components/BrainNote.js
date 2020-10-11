@@ -36,7 +36,7 @@ const BrainNote = ({ note }) => {
             <Styled.h1 sx={{ my: 3 }}>{note.title} </Styled.h1>
           </Box>
           <Box sx={{pt: 3}}>
-            <ShareButton></ShareButton>
+            <ShareButton link={note.slug=='home'?"":note.slug} />
           </Box>
         </Flex>
         <MDXRenderer>{note.childMdx.body}</MDXRenderer>
