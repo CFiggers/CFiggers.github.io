@@ -29,14 +29,14 @@ Of God's other [[Revelation]]:
 
 Of Application:
 * [[Biblical Studies]] - The study of [[Revelation]] in [[The Bible]]
-* [[Academic Theology]] - The study of Theology itself (this list is an example of Academic Theology!)
-* [[Practical Theology]] - The study of using Theology in real life and in other fields of study (like [[Philosophy]])
+* [[Academic Theology]] - The study of **Theology** itself (this list is an example of Academic Theology!)
+* [[Practical Theology]] - The study of using **Theology** in real life and in other fields of study (like [[Philosophy]])
 
 ### Are "Theology" and "Doctrine" different?
 
 Yes. Many Doctrines (like [[Calvinism]] or [[Doctrine of the Trinity]]) are simply collections of multiple [positions](/position)<!-- [[Position]] --> within various branches of **Theology**. Having the one word makes it easier to refer to each of the parts together as a unit.
 
-Here's some examples:
+Here's some (oversimplified) examples:
 
 * [[Calvinism]]
   * [[Theology Proper]]: [[God]] is [perfectly sovereign](/sovereignty-of-god)<!-- [[Sovereignty of God]] --> over everything in creation and [completely free](/freedom-of-god)<!-- [[Freedom of God]] --> to manifest [his glory](/the-glory-of-god)<!-- [[The Glory of God]] --> as he sees fit.
