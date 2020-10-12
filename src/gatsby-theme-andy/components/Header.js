@@ -12,7 +12,7 @@ export default ({ siteMetadata }) => (
       </Link>
     </Box>
     <Box py={2} px={3} sx={{ borderBottom: '1px solid', borderColor: 'gray', flex: '1', pr: 4 }}>
-      <Link to="https://ko-fi.com/calebfiggers" target="_blank" sx={{ fontWeight: 'bold', color: 'text', textDecoration: 'none', justifyContent: 'flex-end' }}>
+      <Link to="https://ko-fi.com/calebfiggers" target="_blank" sx={{ fontWeight: 'bold', textDecoration: 'none', justifyContent: 'flex-end' }}>
         ❤
       </Link>
     </Box>
