@@ -4,7 +4,7 @@ title: Abstraction
 
 ### What's Abstraction?
 
-**Abstraction** is a form of [[Pattern Recognition]]. Rather than an exact match between two things, an **Abstraction** is a pattern in which only some of the details of each thing match&mdash;the dissimilarities are ignored. A good (or *useful*) **Abstraction** preserves shared qualities or details that are meaningful. A poor (or *unhelpful*) **Abstraction** creates links between unimportant shared details.
+**Abstraction** is a form of [[Pattern Recognition]]. Rather than an exact match between two things, an **Abstraction** is a pattern in which only some of the details of each thing match&mdash;the dissimilarities are ignored. A good (or _useful_) **Abstraction** preserves shared qualities or details that are meaningful. A poor (or _unhelpful_) **Abstraction** creates links between unimportant shared details.
 
 **Abstraction** and [[Reification]] are inverse counterparts.
 

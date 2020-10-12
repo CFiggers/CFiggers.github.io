@@ -2,5 +2,5 @@
 title: Axiology
 ---
 
-* [[Ethics]]
-* [[Aesthetics]]
+- [[Ethics]]
+- [[Aesthetics]]

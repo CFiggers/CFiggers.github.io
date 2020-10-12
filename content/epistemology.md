@@ -2,4 +2,4 @@
 title: Epistemology
 ---
 
-* [[Metacognition]]
+- [[Metacognition]]

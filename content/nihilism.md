@@ -2,5 +2,5 @@
 title: Nihilism
 ---
 
-* [[Nihilism is Fundamentally Abusive]]
-* 
+- [[Nihilism is Fundamentally Abusive]]
+-

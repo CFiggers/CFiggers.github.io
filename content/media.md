@@ -2,6 +2,6 @@
 title: Media
 ---
 
-* [[Books]]
-* [[Movies]]
-* [[Music]]
+- [[Books]]
+- [[Movies]]
+- [[Music]]

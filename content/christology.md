@@ -1,3 +1,3 @@
 ---
- title: Christology
+title: Christology
 ---

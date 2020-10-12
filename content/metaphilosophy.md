@@ -1,6 +1,5 @@
---- 
+---
 title: Metaphilosophy
 ---
 
-* [[History of Ideas]]
-
+- [[History of Ideas]]

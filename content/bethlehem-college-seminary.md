@@ -1,4 +1,3 @@
 ---
 title: Bethlehem College & Seminary
 ---
-
