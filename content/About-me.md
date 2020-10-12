@@ -4,7 +4,7 @@ title: About Me
 
 I'm a bunch of things (most people are). A few of mine worth mentioning:
 
-* Husband (I ❤ Jenna)
+* Husband
 * [Student](/bethlehem-college-seminary)<!-- [[Bethlehem College & Seminary]] -->
 * [Christian](/my-faith)<!-- [[My Faith]] -->
 * Hobbyist 
@@ -14,7 +14,11 @@ I'm a bunch of things (most people are). A few of mine worth mentioning:
   * [Philosopher](/philosophy)<!-- [[Philosophy]] -->
   * [Theologian](/theology)<!-- [[Theology]] -->
 
-Find me on:
+Here's a picture of my goofy face (feat. Jenna, my ❤):
+
+![Picture of Caleb and Jenna](https://raw.githubusercontent.com/CFiggers/images-calebsnotes/master/cropped_pic%20of%20me_1.jpg)
+
+You can find me (if you really want to) on:
 * <a href="https://twitter.com/CalebFiggers" target="_blank">Twitter</a>
 * <a href="https://github.com/CFiggers" target="_blank">GitHub</a>
 * <a href="https://ko-fi.com/calebfiggers" target="_blank">Ko-fi</a>
