@@ -8,4 +8,4 @@ I use the phrase in a variety of contexts as a light-hearted alternative to the 
 
 ---
 
-<sup><sub>Updated: 2020-10-11 </sub></sup>
+<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>

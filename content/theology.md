@@ -60,4 +60,4 @@ At the end of the day, it is [[God]] himself, by [[The Holy Spirit]], who [makes
 
 ---
 
-<sup><sub>Updated: 2020-10-11 </sub></sup>
+<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
