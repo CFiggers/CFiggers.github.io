@@ -9,3 +9,7 @@ title: Abstraction
 **Abstraction** and [[Reification]] are inverse counterparts.
 
 ![Abstraction diagram](https://raw.githubusercontent.com/CFiggers/images-calebsnotes/master/Abstraction%20Diagram.svg)
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

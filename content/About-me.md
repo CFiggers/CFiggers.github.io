@@ -23,3 +23,7 @@ You can find me (if you really want to) on:
 - <a href="https://twitter.com/CalebFiggers" target="_blank">Twitter</a>
 - <a href="https://github.com/CFiggers" target="_blank">GitHub</a>
 - <a href="https://ko-fi.com/calebfiggers" target="_blank">Ko-fi</a>
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

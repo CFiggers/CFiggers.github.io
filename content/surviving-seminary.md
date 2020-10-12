@@ -9,3 +9,7 @@ I'm a seminary student at <a href="https://bcsmn.edu/" target="_blank">Bethlehem
 - [[My Tech Stack]]
 - [[My Office Setup]]
 - [[My Philosophy of Learning]]
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

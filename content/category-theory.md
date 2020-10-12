@@ -11,3 +11,7 @@ Most branches of math (like Arithmetic, Algebra, Calculus, etc.) use numbers and
 - [[Why I Like Category Theory So Much]]
 - [[Category Theory: The Basics]]
 - [[Category Theory: Practical Examples]]
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

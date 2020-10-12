@@ -57,3 +57,7 @@ At the end of the day, "label" words like "[[Justification]]" are **made up.** [
 Not everyone separates "Theology" into the same categories I have above. That's ok. Not everyone would agree with my super-brief summaries of [[Calvinism]] and [[Protestantism]] above. That's also ok. Theology is a [human](/creaturely-limitation)<!-- [[Creaturely Limitation]] --> endeavor to understand [[God]] and his [revealed truth](/revelation)<!-- [[Revelation]] --> more fully. It isn't possible for [merely human](/creaturely-limitation)<!-- [[Creaturely Limitation]] --> beings like us to do that perfectly. [But it's still worth working on!](/-anything-worth-doing-is-worth-doing-badly)<!-- [["Anything worth doing is worth doing badly."]] --> [[Imperfect things can still be useful and valuable.]]
 
 At the end of the day, it is [[God]] himself, by [[The Holy Spirit]], who [makes it possible for us to understand anything at all](/illumination)<!-- [[Illumination]] -->. Imperfect words, ideas, and understanding (which we will always have, [forever](/heaven)<!-- [[Heaven]] -->!) aren't enough to stop God from helping us know true truth about him, [if that's what he is pleased to do](/illumination)<!-- [[Illumination]] -->.
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

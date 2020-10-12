@@ -59,3 +59,7 @@ At the end of the day, "label" words like "[[Existentialism]]" are **made up.** 
 **This is ok!** Philosophy words are sometimes helpful. Sometimes they're not. None of them are perfect or infallible. Like any [merely human](/creaturely-limitation)<!-- [[Creaturely Limitation]] --> words, Philosophy words are limited. Use them as helpful hints for your understanding more than absolute categories you can always be certain about.
 
 Not everyone separates "Philosophy" into the same six branches I have above&mdash;not everyone advises separating things into branches at all. That's ok. Not everyone would agree with my super-brief summaries of the "-ism"s in the previous section. That's also ok. Philosophy is trying to understand things better&mdash;it isn't an exact science (which is something I would also say about [[Science]], incidentally!). The categories will never be perfect&mdash;so if these ones help you, use them! If not, I'm ok with that too.
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>

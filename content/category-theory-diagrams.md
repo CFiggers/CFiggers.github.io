@@ -13,3 +13,7 @@ This diagram has three (3) basic elements:
 - [[Labels]] (i.e., the "A", "B", "C" and "f", "g", "h")
 
 Category Theory Diagrams have a special rule: [[Every Category Theory Diagram is only partially complete.]]
+
+---
+
+<sup><sub>Updated: 2020-10-11 </sub></sup>
