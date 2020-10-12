@@ -28,6 +28,8 @@ Output:
 
 ![](https://gist.githubusercontent.com/CFiggers/a99d73bd5a86624720ac288f9ff08696/raw/8eff744422c18ab01ed33d9136e36334fedb522d/Philosophy%2520Branches%2520Diagram.svg)
 
+Each of the branches naturally informs and influences each of the others. But some lines of influence (like that of [[Metaphilosophy]] on [[Epistemology]], etc.) are clearer&mdash;hence the darker lines.
+
 ### There's so many "-ism"s in Philosophy!
 
 Many "-ism"s (like [[Rationalism]] or [[Marxism]]) are simply collections of multiple positions within various branches of **Philosophy**. Having the one word makes it easier to refer to each of the parts together as a unit. 
