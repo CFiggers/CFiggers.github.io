@@ -1,5 +1,5 @@
 ---
-title: AutoHotkey
+title: Apple IPad (6th Gen)
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: AutoHotkey
+title: XMind 8
 ---
 
 ---
