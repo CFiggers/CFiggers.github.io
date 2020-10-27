@@ -1,5 +1,6 @@
 ---
 title: Category Theory
+updated: 2020-10-27
 ---
 
 ### What's Category Theory?
@@ -14,4 +15,4 @@ Most branches of math (like Arithmetic, Algebra, Calculus, etc.) use numbers and
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

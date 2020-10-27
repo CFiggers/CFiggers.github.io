@@ -1,5 +1,6 @@
 ---
 title: Surviving Seminary
+updated: 2020-10-27
 ---
 
 I'm a seminary student at <a href="https://bcsmn.edu/" target="_blank">Bethlehem College & Seminary</a>. Seminary is hard. These things have helped me:
@@ -12,4 +13,4 @@ I'm a seminary student at <a href="https://bcsmn.edu/" target="_blank">Bethlehem
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

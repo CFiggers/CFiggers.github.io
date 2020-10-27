@@ -1,5 +1,6 @@
 ---
 title: My Tech Stack
+updated: 2020-10-27
 ---
 
 - Hardware
@@ -38,4 +39,4 @@ title: My Tech Stack
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-27</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

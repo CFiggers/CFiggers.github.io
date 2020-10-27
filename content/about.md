@@ -1,5 +1,6 @@
 ---
 title: Home
+updated: 2020-10-27
 ---
 
 Hi, I'm [Caleb](/about-me)<!-- [[About Me]] --> 👋
@@ -18,4 +19,4 @@ This site is meant as a free-roaming, semi-rigorous exploration of [[Life, the U
 ---
 
 <sub><sup>This site is built using an unstable amalgam of <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby.js</a>, <a href="https://github.com/aravindballa/gatsby-theme-andy" target="_blank">gatsby-theme-andy</a>, and my own amateur, untrained web coding hackery. </sup></sub><br/>
-<sub><sup>Last Updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-11</a></sup></sub>
+<sub><sup>Last updated: <a href="https://github.com/CFiggers/calebsnotes" target="_blank">2020-10-11</a></sup></sub>

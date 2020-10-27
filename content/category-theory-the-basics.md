@@ -1,5 +1,6 @@
 ---
 title: Category Theory The Basics
+updated: 2020-10-27
 ---
 
 - [[What's a Category?]]
@@ -8,4 +9,4 @@ title: Category Theory The Basics
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

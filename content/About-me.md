@@ -1,5 +1,6 @@
 ---
 title: About Me
+updated: 2020-10-27
 ---
 
 I'm a bunch of things (most people are). A few of mine worth mentioning:
@@ -26,4 +27,4 @@ You can find me (if you really want to) on:
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

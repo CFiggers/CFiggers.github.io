@@ -1,5 +1,6 @@
 ---
 title: Category Theory Diagrams
+updated: 2020-10-27
 ---
 
 Most Category Theorists (especially the ones that care a lot about practical uses for Category Theory, like [[Logic]] and [[Programming]]) use diagrams to represent **Categories** under discussion. Here's an example:
@@ -16,4 +17,4 @@ Category Theory Diagrams have a special rule: [[Every Category Theory Diagram is
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

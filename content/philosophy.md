@@ -1,6 +1,6 @@
 ---
 title: Philosophy
-updated: 2020-10-10
+updated: 2020-10-27
 ---
 
 ### What's Philosophy?
@@ -62,4 +62,4 @@ Not everyone separates "Philosophy" into the same six branches I have above&mdas
 
 ---
 
-<sup><sub><font color="#a6a6a6">Updated: 2020-10-11</font></sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>

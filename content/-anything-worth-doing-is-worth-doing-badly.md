@@ -1,7 +1,8 @@
 ---
 title: "Anything Worth Doing Is Worth Doing Badly."
+updated: 2020-10-27
 ---
 
 ---
 
-<sup><sub>Updated: 0000-00-00</sub></sup>
+<sup><sub><font color="#a6a6a6">updated: 2020-10-27</font></sub></sup>
