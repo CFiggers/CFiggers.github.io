@@ -2,9 +2,10 @@
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { Styled, ThemeProvider, Flex, Box, jsx } from "theme-ui";
 
-import useWindowWidth from "../../../node_modules/gatsby-theme-andy/src/utils/useWindowWidth";
+import useWindowWidth from "ewsdutils/useWindowWidth";
 import components from "../../../node_modules/gatsby-theme-andy/src/components/MdxComponents";
 import Footer from "./Footer";
+import Updated from "./Updated";
 import Popover from "../../../node_modules/gatsby-theme-andy/src/components/Popover";
 import ShareButton from "./ShareButton";
 
@@ -42,7 +43,7 @@ const BrainNote = ({ note }) => {
         </Flex>
         <MDXRenderer>{note.childMdx.body}</MDXRenderer>
       </div>
-
+      <Updated date={note.updated}></Updated>
       <Footer references={note.inboundReferenceNotes} />
     </ThemeProvider>
   );
